@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ExpenseMan</string>
+    <string name="category_exercise">Exercise</string>
+</resources>
